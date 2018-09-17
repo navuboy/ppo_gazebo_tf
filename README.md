@@ -25,6 +25,10 @@ Reinforcement Learning for solving the custom cartpole balance problem in gazebo
 
 python3 ppo_train.py 
 
+<p align= "center">
+  <img src="cartpole-gazebo-ppo/cartpole_gazebo/gifs/ppo_train-2018-09-17_12.55.15.gif">
+</p>
+
 ### Testing trained policy:
 
 python3 ppo_test.py
