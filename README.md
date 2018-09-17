@@ -37,6 +37,6 @@ python3 ppo_test.py
 - PPO implementation using TensorFlow: https://github.com/uidilr/ppo_tf
 
 ### TODO:
-Use Tensorboard for plotting the training and testing graphs. 
+- Use Tensorboard for plotting the training and testing graphs. 
 
 
