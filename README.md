@@ -1,5 +1,5 @@
 # ppo_gazebo_tf
-Reinforcement Learning for solving the custom cartpole balance problem in gazebo environment using Proximal Policy Optimization(PPO).
+Reinforcement Learning for solving the custom **cartpole** balance problem in **gazebo environment** using **Proximal Policy Optimization(PPO)**.
 
 ### Environment
 - Custom cartpole environment(from OpenAI gym) in gazebo. 
