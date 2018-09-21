@@ -22,16 +22,17 @@ Reinforcement Learning for solving the custom **cartpole** balance problem in **
 - **cartpole_controller** contains the reinforcement learning implementation of ****Proximal Policy Optimization(PPO)**** for custom cartpole environment.
 
 ### Training Phase:
-
-python3 ppo_train.py 
+```
+python3 ppo_train.py
+```
 <p align= "center">
   <img src="cartpole-gazebo-ppo/cartpole_gazebo/gifs/ppo_train-2018-09-17_12.55.15.gif">
 </p>
 
 ### Testing trained policy:
-
+```
 python3 ppo_test.py
-
+```
 ### References:
 - Proximal Policy Optimization by OpenAI: https://blog.openai.com/openai-baselines-ppo/
 - PPO implementation using TensorFlow: https://github.com/uidilr/ppo_tf
