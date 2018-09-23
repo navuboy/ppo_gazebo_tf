@@ -34,8 +34,8 @@ python3 ppo_train.py
 python3 ppo_test.py
 ```
 ### References:
-- Proximal Policy Optimization by OpenAI: https://blog.openai.com/openai-baselines-ppo/
-- PPO implementation using TensorFlow: https://github.com/uidilr/ppo_tf
+- <b><a href="https://blog.openai.com/openai-baselines-ppo/">Proximal Policy Optimization by OpenAI</a></b> 
+- <b><a href="https://github.com/uidilr/ppo_tf">PPO implementation using TensorFlow</a></b>
 
 ### TODO:
 - Use Tensorboard for plotting the training and testing graphs. 
