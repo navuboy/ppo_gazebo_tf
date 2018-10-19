@@ -2,7 +2,7 @@
 Reinforcement Learning for solving the custom **cartpole** balance problem in **gazebo environment** using **Proximal Policy Optimization(PPO)**.
 
 ### Environment
-- Custom cartpole environment(from OpenAI gym) in gazebo. 
+- Custom cartpole in gazebo (similar to the one from OpenAI gym)
 - Observation Space: 4 (continuos)
 - Action Space: 2 (discrete) 
 - Reward range: 
