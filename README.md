@@ -41,6 +41,6 @@ python3 ppo_test.py
 - Use Tensorboard for plotting the training and testing graphs. 
 
 ## Project collaborator(s): 
-**<a href="https://github.com/ioarun">Arun Kumar</a>** 
+**<a href="https://github.com/ioarun">Arun Kumar</a>** (arunkumar12@iisc.ac.in)
 
 
