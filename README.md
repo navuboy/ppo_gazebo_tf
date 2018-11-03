@@ -3,9 +3,8 @@ Reinforcement Learning for solving the custom **cartpole** balance problem in **
 
 ### Environment
 - Custom cartpole in gazebo (similar to the one from OpenAI gym)
-- Observation Space: 4 (continuos)
-- Action Space: 2 (discrete) 
-- Reward range: 
+- Observation Space: 4 (<strong>continuos</strong>)
+- Action Space: 2 (<strong>discrete</strong>) 
 
 ### Dependencies
 
